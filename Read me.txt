@@ -1,0 +1,12 @@
+If you are reading this you have recieved the mod pack now there are some simple steps you need to follow
+
+
+1. make sure you have java downloaded how you can tell is to look at each of the .jar files if you see a coffee image next to them then you have java.
+2. you need to run the file inside of the 2nd folder then once its done delete the folder
+3. next you need to find your mod folder for windows what you can do is right click the windows button in the bottom left then
+click on run after that type %appdata% into the text box
+4. navigate into the .minecraft folder and then go into the mods folder if you dont have a mods folder create a folder named mods all lowercase
+5. dump everything into your mods folder
+6. start minecraft
+7. join the server
+8. stonks!
